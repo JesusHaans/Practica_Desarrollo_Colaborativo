@@ -1,4 +1,5 @@
 // Author: Jesus Haans Lopez Hernandez - jesuslopez@ciencias.unam.mx
+// Author: Dueñitotito - elbilletudo@email.com
 // Author: Developepe - developer_pepe@email.com
 
 const http = require('http')
